@@ -1,6 +1,12 @@
 # offline-speech-rpi
 Offline capable speech assistant for #RPI 
 
+## Compatability
+This is designed with Kasa smart plugs connected on the local wifi network. The router does not need to have internet connectivity.
+
+Speech recognition is for english only. You could modify the commands and use a different recognition model for other langugages.
+see https://alphacephei.com/vosk/models for list of compatible languages.
+
 ## Installation
 
 1. Clone repository
