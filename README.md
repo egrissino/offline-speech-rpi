@@ -1,7 +1,7 @@
 # offline-speech-rpi
 Offline capable speech assistant for #RPI 
 
-**Installation
+## Installation
 
 1. Clone repository
 2. Download vosk model from
